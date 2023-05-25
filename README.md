@@ -16,5 +16,4 @@ Our Team members:
 (MD) A163DSX2739 – Pandji Alam – Universitas Dian Nuswantoro - Active
 
 Our Design Prototype:
-
 https://www.figma.com/proto/2d9GDxrDyk8wVHsSQgvCax/Untitled?type=design&node-id=20-163&scaling=scale-down&page-id=0%3A1&starting-point-node-id=20%3A163
