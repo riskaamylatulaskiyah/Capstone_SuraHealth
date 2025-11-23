@@ -72,4 +72,7 @@ We use matriks silhoutte with k optimal = 6
 Library yang kita gunakan yaitu Scikit Learn dan Tensorflow.
 Kita menggunakan python programming language dengan tools adalah VScode.
 
+Our Design Prototype: [Figma](https://www.figma.com/proto/2d9GDxrDyk8wVHsSQgvCax/Untitled?type=design&node-id=20-163&scaling=scale-down&page-id=0%3A1&starting-point-node-id=20%3A163)
+Our Presentation : [Youtube](https://youtu.be/Cpy7ytxVVPo)
+
 
